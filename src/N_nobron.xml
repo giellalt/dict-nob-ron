@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="../../scripts/gt_dictionary.css"?>
+
+<!DOCTYPE r
+  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<r>
+   <e>
+      <lg>
+         <l pos="N">aristokrati</l>
+      </lg>
+      <mg>
+         <tg xml:lang="ron">
+            <t pos="N">aristocrație</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg freq="491">
+         <l pos="N">vocal</l>
+      </lg>
+      <mg>
+         <tg xml:lang="ron">
+            <t pos="N">vokală</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg freq="3">
+         <l pos="N">blasfemi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="ron">
+            <t pos="N">blasfemie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg freq="9">
+         <l pos="N">badstue</l>
+      </lg>
+      <mg>
+         <tg xml:lang="ron">
+            <t pos="N">saună</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg freq="65">
+         <l pos="N">leketøy</l>
+      </lg>
+      <mg>
+         <tg xml:lang="ron">
+            <t pos="N">jucărie</t>
+         </tg>
+      </mg>
+   </e>
+</r>
